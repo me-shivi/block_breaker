@@ -1,0 +1,15 @@
+.block_canvas {
+  background: #eee;
+  border: 6px solid #000;
+  -webkit-transform: translate(0, 25%);
+  -moz-transform: translate(0, 25%);
+  transform: translate(0, 25%);
+  display: block;
+}
+
+.function_btn {
+  text-align: center;
+  -webkit-transform: translate(-30%, 500%);
+  -moz-transform: translate(-30%, 500%);
+  transform: translate(-30%, 500%);
+}
